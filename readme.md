@@ -56,16 +56,16 @@ You must complete HEMTT inital installation before doing this.
 
 ---
 ## Credit
-**Lead Developer:** Cassius  
-**Developers**:Hacket, Frost, Cabur.  
+**Lead Developer:** TBD  
+**Developers**:Freelancer.  
 
-**Texture Artists**: Frost, Immortal, Cabur.  
+**Texture Artists**: Atticus, Ronnin, Kane.  
     
 **Special thanks to**: Thatcher (IDA), Dart, Balance, Revan, Flash, Magika.  
 
 ---
 ## Contact
-Speak to Cassius.
+Freelancer
 
 **New Features are to be suggested in the discord.** 
   
