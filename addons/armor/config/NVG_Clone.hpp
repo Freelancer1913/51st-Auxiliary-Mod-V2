@@ -32,7 +32,7 @@ class ic51_clone_rangefinder : IDA_Clone_Rangefinder
     picture = QPATHTOF(data\51st_logo.paa);
     displayName = "[51st] Clone Rangefinder";
     hiddenSelections[] = {"camo"};
-    visionMode[] = {"Normal","NVG"};
+    visionMode[] = {"Normal","NVG","TI"};
     hiddenSelectionsTextures[] =
     {
         QPATHTOF(data\nvg\clone_rangefinder_co.paa)
