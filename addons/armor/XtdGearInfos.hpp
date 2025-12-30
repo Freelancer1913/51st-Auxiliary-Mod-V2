@@ -146,7 +146,21 @@ class XtdGearInfos {
     class ic51_katarn_vest_teamleader           { model = "ic51_trooper_vest_katarn"; camo = "ic51_katarn_vest_basic_leader"; };
     class ic51_katarn_vest_tech           { model = "ic51_trooper_vest_katarn"; camo = "ic51_katarn_vest_basic_tech"; };
     class ic51_katarn_vest_tech_gary           { model = "ic51_trooper_vest_katarn"; camo = "ic51_katarn_vest_gary"; };
-    class ic51_katarn_vest_demo_immortal           { model = "ic51_trooper_vest_katarn"; camo = "ic51_katarn_vest_imortal"; };
+    class ic51_katarn_vest_demo_immortalB           { model = "ic51_trooper_vest_katarn"; camo = "ic51_katarn_vest_imortal"; };
+    //NVGs WP
+    class ic51_clone_nvg           { model = "ic51_trooper_nvg_wp"; camo = "ic51_trooper_nvg"; };
+    class ic51_clone_nvg_marksmen           { model = "ic51_trooper_nvg_wp"; camo = "ic51_trooper_nvg_marksmen"; };
+    class ic51_clone_rangefinder           { model = "ic51_trooper_nvg_wp"; camo = "ic51_trooper_rangefinder"; };
+    class ic51_nvg_chip           { model = "ic51_trooper_nvg_wp"; camo = "ic51_trooper_nvg_chip"; };
+    class ic51_clone_medicalscanner           { model = "ic51_trooper_nvg_wp"; camo = "ic51_trooper_medicalscanner"; };
+    class ic51_nvg_sunvisor           { model = "ic51_trooper_nvg_wp"; camo = "ic51_trooper_nvg_sunvisor"; };
+    //NVGs GP
+    class ic51_clone_nvg_gp           { model = "ic51_trooper_nvg_gp"; camo = "ic51_trooper_nvg_gp"; };
+    class ic51_clone_nvg_marksmen_gp           { model = "ic51_trooper_nvg_gp"; camo = "ic51_trooper_nvg_marksmen_gp"; };
+    class ic51_clone_rangefinder_gp           { model = "ic51_trooper_nvg_gp"; camo = "ic51_trooper_rangefinder_gp"; };
+    class ic51_nvg_chip_gp           { model = "ic51_trooper_nvg_gp"; camo = "ic51_trooper_nvg_chip_gp"; };
+    class ic51_clone_medicalscanner_gp           { model = "ic51_trooper_nvg_gp"; camo = "ic51_trooper_medicalscanner_gp"; };
+    class ic51_nvg_sunvisor_gp           { model = "ic51_trooper_nvg_gp"; camo = "ic51_trooper_nvg_sunvisor_gp"; };
   };
   class CfgVehicles {
     //base backpacks

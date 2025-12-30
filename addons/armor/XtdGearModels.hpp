@@ -441,6 +441,50 @@ class XtdGearModels {
 		class ic51_katarn_vest_imortal { label = "Immortal";};
       };
     };
+    class ic51_trooper_nvg_wp{
+      label = "[51st] Night Vision WP";
+      author = AUTHOR;
+      options[] = {"camo"};                
+      class camo {                        
+        values[] = 
+        {
+            "ic51_trooper_nvg",
+            "ic51_trooper_nvg_marksmen",
+            "ic51_trooper_rangefinder",
+            "ic51_trooper_nvg_chip",
+            "ic51_trooper_medicalscanner",
+            "ic51_trooper_nvg_sunvisor",
+        };
+        class ic51_trooper_nvg {label = "Macrobinoculars";};
+        class ic51_trooper_nvg_marksmen {label = "Marksmen Visor";};
+        class ic51_trooper_rangefinder {label = "Range Finder";};
+        class ic51_trooper_nvg_chip {label = "NVG Chip";};
+        class ic51_trooper_medicalscanner {label = "Medical Scanner";};
+        class ic51_trooper_nvg_sunvisor {label = "Sunvisor (Heavy)";};
+      };
+    };
+    class ic51_trooper_nvg_gp{
+      label = "[51st] Night Vision GP";
+      author = AUTHOR;
+      options[] = {"camo"};                
+      class camo {                        
+        values[] = 
+        {
+            "ic51_trooper_nvg_gp",
+            "ic51_trooper_nvg_marksmen_gp",
+            "ic51_trooper_rangefinder_gp",
+            "ic51_trooper_nvg_chip_gp",
+            "ic51_trooper_medicalscanner_gp",
+            "ic51_trooper_nvg_sunvisor_gp",
+        };
+        class ic51_trooper_nvg_gp {label = "Macrobinoculars";};
+        class ic51_trooper_nvg_marksmen_gp {label = "Marksmen Visor";};
+        class ic51_trooper_rangefinder_gp {label = "Range Finder";};
+        class ic51_trooper_nvg_chip_gp {label = "NVG Chip";};
+        class ic51_trooper_medicalscanner_gp {label = "Medical Scanner";};
+        class ic51_trooper_nvg_sunvisor_gp {label = "Sunvisor (Heavy)";};
+      };
+    };
   };
   //backpacks
    class CfgVehicles{
