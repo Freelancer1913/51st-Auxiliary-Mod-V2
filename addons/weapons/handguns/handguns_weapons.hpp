@@ -23,3 +23,15 @@ class ic51_dc17 : IDA_DC17 {
         };
     SCOPE_PUBLIC;
 };
+
+//Vibro Blades
+class ShdwCmpny_Vibroblade_r;
+class ShdwCmpny_Vibroblade_rotated_r;
+
+class ic51_vibroblade: ShdwCmpny_Vibroblade_r{
+    displayName = "[51st] Vibroblade";
+};
+
+class ic51_vibroblade_rotated: ShdwCmpny_Vibroblade_rotated_r{
+    displayName = "[51st] Vibroblade Reversed";
+};

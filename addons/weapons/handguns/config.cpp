@@ -23,6 +23,8 @@ class CfgPatches
         {
             "ic51_dc15sa",
             "ic51_dc17",
+            "ic51_vibroblade",
+            "ic51_vibroblade_rotated",
         };
     };
 };
